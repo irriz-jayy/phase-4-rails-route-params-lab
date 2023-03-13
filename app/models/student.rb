@@ -4,4 +4,8 @@ class Student < ApplicationRecord
     "#{first_name} #{last_name}"
   end
 
+
+  def show
+    byebug
+  end
 end
