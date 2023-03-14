@@ -5,7 +5,5 @@ class Student < ApplicationRecord
   end
 
 
-  def show
-    byebug
-  end
+
 end
